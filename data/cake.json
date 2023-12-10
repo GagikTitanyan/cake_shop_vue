@@ -1,0 +1,20 @@
+{
+    "image": "/images/cake.png",
+    "name": "Cake name",
+    "rate": 4,
+    "price": 7500,
+    "inputs": [
+        "Small",
+        "Medium",
+        "Big"
+    ],
+    "about": [
+        "Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis.", 
+        "Porta augue libero sociis porttitor diam. Sit suscipit vel in dignissim id.",
+        "Vestibulum eget non tortor eget.Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis."
+    ],
+    "descriptions": [
+        "Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis. Porta augue libero sociis porttitor diam. Sit suscipit vel in dignissim id. Vestibulum eget non tortor eget.Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis. Porta augue libero sociis porttitor diam. Sit suscipit vel in dignissim id. Vestibulum eget non tortor eget",
+        "Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis. Porta augue libero sociis porttitor diam. Sit suscipit vel in dignissim id. Vestibulum eget non tortor eget.Lorem ipsum dolor sit amet consectetur. Lectus at diam consectetur iaculis.\n Porta augue libero sociis porttitor diam. Sit suscipit vel in dignissim id. Vestibulum eget non tortor eget."
+    ]
+}

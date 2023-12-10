@@ -1,0 +1,22 @@
+[
+    {
+        "image": "/images/cakes.png",
+        "name": "Cakes",
+        "direction": "left"
+    },
+    {
+        "image": "/images/donuts.png",
+        "name": "Donuts",
+        "direction": "right"
+    },
+    {
+        "image": "/images/cookies.png",
+        "name": "Cookies",
+        "direction": "left"
+    },
+    {
+        "image": "/images/pastries.png",
+        "name": "Pastries",
+        "direction": "right"
+    }
+]

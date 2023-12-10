@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+@font-face {
+    font-family: helvetica-light;
+    src: url(/fonts/helvetica_light.ttf);
+}
+
+.purple-title {
+    color: #920057;
+    font-size: 48px;
+    font-family: helvetica-light;
+    font-weight: 700;
+}
+
+.title {
+    color: #FEA4DA;
+    font-size: 72px;
+    font-family: helvetica-light;
+    font-weight: 800;
+    padding: 30px 0;
+    text-transform: uppercase;
+}
+
+.icon {
+    cursor: pointer;
+}
+
+.description-text {
+    @screen sm {
+        font-size: 20px;
+    }
+    font-size: 14px;
+    color: #373737;
+    font-family: Segoe UI;
+    font-weight: 400;
+    line-height: 30px;
+    word-wrap: break-word;
+}
+
+.gray-text {
+    @screen sm {
+        font-size: 20px;
+    }
+    font-size: 16px;
+    color: #76777C;
+    font-family: Segoe UI;
+    font-weight: 400;
+    text-transform: lowercase;
+    word-wrap: break-word
+}
+
+.title-pink-text {
+    color: #920057;
+    font-size: 20px;
+    font-family: Segoe UI;
+    font-weight: 400;
+    text-transform: capitalize;
+    word-wrap: break-word
+}
+
+.see-more-text {
+    color: #DB3498;
+    font-size: 32px;
+    font-family: Arial;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 50px;
+    word-wrap: break-word;
+    text-align: center;
+    cursor: pointer;
+}
